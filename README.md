@@ -11,6 +11,10 @@ SiamonsGame is a simple game where players test their memory and reaction skills
 5. **Game Over**: If you press the wrong button or fail to match the sequence, the game will end, and your score will be displayed.
 6. **Restart**: To play again, you'll need to start from level zero by pressing any key on the keyboard.
 
+##Screenshot
+![Screenshot (707)](https://github.com/dhirajdurande13/SimonsGame/assets/131881871/3a4cdb34-6b17-42c6-9feb-79455bb58105)
+
+
 ## Installation
 
 There's no specific installation process for this game. Simply download or clone the repository and open the `index.html` file in your web browser to start playing.
